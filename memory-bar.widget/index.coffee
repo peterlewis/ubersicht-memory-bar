@@ -16,7 +16,7 @@ style: """
   // Statistics text settings
   color #fff
   font-family Helvetica Neue
-  background rgba(#000, .5)
+  background rgba(#2e3440, .6)
   padding 10px 10px 15px
   border-radius 5px
 
@@ -78,13 +78,13 @@ style: """
       border-radius: 0 bar-height bar-height 0
 
   .bar-inactive
-    background: rgba(#0bf, .5)
+    background: rgba(#88c0d0, 1)
 
   .bar-active
-    background: rgba(#fc0, .5)
+    background: rgba(#ebcb8b, 1)
 
   .bar-wired
-    background: rgba(#c00, .5)
+    background: rgba(#bf616a, 1)
 """
 
 
